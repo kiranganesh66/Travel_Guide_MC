@@ -1,0 +1,31 @@
+.travelGuideCOn {
+  min-height: 100vh;
+  background-size: cover;
+  background-color: #eef4f7;
+  padding: 20px;
+}
+.Heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #334155;
+  text-align: center;
+}
+.separ {
+  width: 200px;
+  background-color: #52bbf0;
+  text-align: center;
+}
+
+.place-list-contanier {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0px;
+}
+.position {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
